@@ -561,11 +561,94 @@ flex-shrink: 0;
 
 }
 
+/* sub section */
+.subscribe{
+    margin-top: 100px;
+    display: flex;
+    gap: 25px;
+   
+}
 
 
+.sub1{
+    width: 474px;
+height: 360px;
+flex-shrink: 0;
+padding: 40px 40px;
+border-radius: 16px;
+border: 1px solid #FF5400;
+}
 
+.sub1 h3{
+    color: #131318;
+font-size: 1.5rem;
+font-weight: 800;
+}
+.sub1 p{
+    color: #5A5A5D;
+font-size: 1rem;
+font-weight: 400;
+width: 350px;
+}
+.sub1 hr{
+    width: 470px;
+height: 1px;
+margin-bottom: 25px;
+}
 
+.sub1 input{
+    padding: 16px 250px 16px 20px;
+    border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+border: none;
+}
+.inp1{
+    margin-bottom: 16px;
+}
+.inp2{
+    margin-bottom: 16px;
+}
+.subscibe-btn{
+    width: 427px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FF5400;
+border: none;
+}
 
+.rec{
+    width: 324px;
+height: 120px;
+transform: rotate(-19.628deg);
+flex-shrink: 0;
+border-radius: 16px;
+background: #FF5400;
+margin-left: -357px;
+margin-top: 274px;
+}
+
+.rec p{
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 2px;
+}
+
+.rec h3{
+    color: #FFF;
+font-family: Mulish;
+font-size: 2rem;
+font-style: normal;
+font-weight: 800;
+text-align: center;
+line-height: normal;
+margin-top: 0px;
+}
 /* Mobile Device Responsive */
 
 @media screen and (max-width:600px) {
