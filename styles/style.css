@@ -656,6 +656,7 @@ height: 502px;
 flex-shrink: 0;
 background: rgba(19, 19, 24, 0.05);
 margin-top: 100px;
+margin-left: -100px;
 }
 
 
@@ -901,4 +902,88 @@ text-align: center;
         margin-top: 25px;
     }
 
+    .div2{
+        flex-direction: column;
+    }
+    .div3{
+        flex-direction: column;
+    }
+    .div4{
+        flex-direction: column;
+    }
+    .container3 img{
+        width: 573px;
+        height: 300px;
+        l
+    }
+    .mal1{
+        left: 279px;
+    }
+    .mal2{
+        left: 287px;
+    }
+    .mal3{
+        left: 278px;
+    }
+    .mal4{
+        left: 279px;
+    }
+    .mal5{
+        left: 279px;
+    }
+    .container4 img{
+        width: 573px;
+        height: 300px;
+    }
+    .container5 img{
+        width: 573px;
+        height: 300px;
+    }
+
+    .why-title{
+       margin-left: 100px;
+    }
+    .why-para{
+       margin-left: 100px;
+    }
+
+    .subscribe{
+        flex-direction: column;
+    }
+    .subscribe img{
+        width: 560px;
+    }
+    footer{
+        width: 375px;
+height: 309px;
+flex-shrink: 0;
+    }
+
+    .nav-title-contain2{
+        margin-left: 90px;
+        margin-bottom: 10px;
+    }
+    .eve{
+        margin-left: 40px;
+        width: 287px;
+        margin-top: -40px;
+        margin-bottom: -50px;
+    }
+    footer hr{
+        margin-top:30px;
+        margin-left: 10px ;
+        width: 335px;
+height: 1px;
+    }
+    .social{
+        margin-top: 70px;
+        margin-left: 140px;
+    }
+    .co{
+        margin-top: -30px;
+    }
+
+    footer{
+        margin-top: -500px;
+    }
 }
