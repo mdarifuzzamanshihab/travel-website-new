@@ -75,7 +75,7 @@ nav ul li span {
 /* Explore section */
 
 .explore-container {
-    background-image: url("/images/group1.png");
+    background-image: url("./images/group1.png");
     /* linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), */
     background-repeat: no-repeat;
     border-radius: 16px;
